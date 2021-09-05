@@ -1,5 +1,5 @@
 ---
-description: How to contribute to the Help a Family Docs documentation site.
+description: How to contribute to the Help-a-Family Manual.
 ---
 
 # Contributing

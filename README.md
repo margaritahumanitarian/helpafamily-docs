@@ -1,12 +1,12 @@
 ---
-description: The documentation for the helpafamily project
+description: The documentation for the Help-a-Family project
 ---
 
-# Help a Family Docs
+# Help-a-Family Manual
 
-Hi! This is our new manual for the helpafamily project on GitHub.
+Hi! This is our new manual for the Help-a-Family project.
 
-helpafamily is a piece of software that makes it easy for charitable organizations serving families in need to connect with community members who want to help families.
+Help-a-Family is a piece of software that makes it easy for charitable organizations serving families in need to connect with community members who want to help families.
 
 Help comes in the form of:
 
