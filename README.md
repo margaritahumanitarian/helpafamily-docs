@@ -2,7 +2,7 @@
 description: The documentation for the Help-a-Family project
 ---
 
-# Help-a-Family Manual
+# Help a Family Docs
 
 Hi! This is our new manual for the Help-a-Family project.
 
@@ -25,6 +25,4 @@ We need your help writing documentation for Help-a-Family.
 
 * To start, help us fill out the [Contributing instructions](contributing.md).
 * Then try documenting something for any of the above target audiences.
-
-
 
