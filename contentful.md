@@ -4,6 +4,8 @@ description: Contentful manages the content of the cards.
 
 # Contentful
 
+### How to add a card
+
 More details to come.
 
 ### Request access
