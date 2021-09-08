@@ -23,6 +23,9 @@ Target audiences for this documentation:
 
 We need your help writing documentation for Help-a-Family.
 
-* To start, help us fill out the [Contributing instructions]().
+To start: 
+
+* Follow the instructions in [Contributing to Help-a-Family](contributing-to-the-repository.md)
+*  Submit a PR correcting any typo you find. This will give you practice.
 * Then try documenting something for any of the above target audiences.
 
