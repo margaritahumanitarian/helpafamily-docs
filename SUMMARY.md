@@ -5,5 +5,5 @@
 * [Info for API Users](info-for-api-users.md)
 * [Tutorial](tutorial.md)
 * [Contentful](contentful.md)
+* [Environment Variables](env_vars.md)
 * [Contributing to Help-a-Family](contributing-to-the-repository.md)
-
