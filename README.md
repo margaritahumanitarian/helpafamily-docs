@@ -23,6 +23,6 @@ Target audiences for this documentation:
 
 We need your help writing documentation for Help-a-Family.
 
-* To start, help us fill out the [Contributing instructions](contributing.md).
+* To start, help us fill out the [Contributing instructions]().
 * Then try documenting something for any of the above target audiences.
 
