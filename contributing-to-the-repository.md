@@ -49,18 +49,20 @@ We need a reference from our local clone to the `upstream` repository in additio
 
 Follow these steps to sync with the helpafamily repository:
 
-1. Change the directory to the new cloned one `cd helpafamily` 
+1. Change the directory to the new cloned one
+   ```bash
+   cd helpafamily
+   ```
 2. Add a remote reference to the main helpafamily repository:
 
-   ```text
+   ```bash
    git remote add upstream https://github.com/margaritahumanitarian/helpafamily.git
    ```
+3. Ensure the configuration looks correct:
 
-   3. Ensure the configuration looks correct:
-
-```bash
-git remote -v
-```
+   ```bash
+   git remote -v
+   ```
 
 ![you will have your username in place of ozer619](.gitbook/assets/sync.png)
 
@@ -68,10 +70,22 @@ git remote -v
 
 Follow these steps to run the helpafamily web app locally:
 
-1. `cd helpafamily/` if you are not already in the cloned directory.
-2. `cp .env.example .env` 
-3. `yarn install`
-4. `yarn dev`
+1. if you are not already in the cloned directory.
+   ```bash
+   cd helpafamily/
+   ```
+2. Copy the environment variables.
+   ```bash
+   cp .env.example .env
+   ```
+3. Install dependency's
+   ```bash
+   yarn install
+   ```
+4. Start the server.
+   ```bash
+   yarn dev
+   ```
 
 #### If you're familiar with Docker:
 
@@ -85,28 +99,48 @@ Then open [http://127.0.0.1:3000](http://127.0.0.1:3000)
 
 Follow these steps:
 
-1. Validate that you are on the `main` branch: `git status`
-2. You should get this in the command line:  `on branch main Your branch is up-to-date with 'origin/main'.  nothing to commit, working directory clean`
+1. Validate that you are on the `main` branch:
+   ```bash
+   git status
+   ```
+2. You should get this in the command line:  
 
-    3. Sync the latest changes from the helpafamily upstream `main` branch to your local main branch:  
-         `git fetch upstream`
+    `on branch main Your branch is up-to-date with 'origin/main'.  nothing to commit, working directory clean`
 
-    4. `git merge upstream/main` \(merges upstream main to local main\).
+3. Sync the latest changes from the helpafamily upstream `main` branch to your local main branch:  
+
+    ```bash
+    git fetch upstream
+    ```
+
+4. Merges upstream main to local main.
+   ```bash
+   git merge upstream/main
+   ```
 
 ####    Creating a fresh branch for changes:
 
 Working on a separate branch for each issue helps you keep your local working copy clean. You should never work on the `main`.
 
-1. Create new branch and switch to it: `git checkout -b fix_some_issue`
+1. Create new branch and switch to it:
+   ```bash
+   git checkout -b fix_some_issue
+   ```
 
-    2. Edit the files and once your ready to create a pull request :
+2. Edit the files and once your ready to create a pull request :
 
-    3. `git add .`
+3. ```bash
+   git add .
+   ```
 
-    4. `git commit -m "short message"`
+4. ```bash
+   git commit -m "short message"
+   ```
 
-    5. `git push origin branch/name-here`  
-  
+5. ```bash
+   git push origin branch/name-here
+   ```  
+
 
 ### Proposing a Pull Request:
 
@@ -119,6 +153,3 @@ You will be prompted to create a pull request on your fork's GitHub Page.
 
 These instructions were adapted from:  
 [ https://contribute.freecodecamp.org/\#/how-to-setup-freecodecamp-locally](%20https://contribute.freecodecamp.org/#/how-to-setup-freecodecamp-locally)
-
-
-
