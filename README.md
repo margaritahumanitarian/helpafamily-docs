@@ -25,7 +25,7 @@ We need your help writing documentation for Help-a-Family.
 
 To start: 
 
-* Follow the instructions in [Contributing to Help-a-Family](contributing-to-the-repository.md)
+* Follow the instructions in [Contributing to Help-a-Family](https://margaritahumanitarian.gitbook.io/help-a-family-manual/)
 *  Submit a PR correcting any typo you find. This will give you practice.
 * Then try documenting something for any of the above target audiences.
 
