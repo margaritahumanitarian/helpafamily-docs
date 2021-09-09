@@ -21,9 +21,7 @@ Target audiences for this documentation:
 * Anyone who wants to contribute to the codebase of the helpafamily project
 * Anyone who wants to connect a project to the helpafamily APIs \(forthcoming\)
 
-We need your help writing documentation for Help-a-Family.
-
-To start: 
+We need your help writing documentation for Help-a-Family. To start: 
 
 * Follow the instructions in [Contributing to Help-a-Family](contributing-to-the-repository.md)
 *  Submit a PR correcting any typo you find. This will give you practice.
