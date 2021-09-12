@@ -78,7 +78,7 @@ Follow these steps to run the helpafamily web app locally:
    ```bash
    cp .env.example .env
    ```
-3. Install dependency's
+3. Install dependencies:
    ```bash
    yarn install
    ```
