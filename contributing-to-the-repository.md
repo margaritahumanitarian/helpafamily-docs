@@ -127,7 +127,7 @@ Working on a separate branch for each issue helps you keep your local working co
    git checkout -b fix_some_issue
    ```
 
-2. Edit the files and once your ready to create a pull request :
+2. Edit the files. Once you're ready, create a pull request:
 
 3. ```bash
    git add .
