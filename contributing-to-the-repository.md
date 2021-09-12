@@ -122,7 +122,7 @@ Follow these steps:
 
 Working on a separate branch for each issue helps you keep your local working copy clean. You should never work on the `main`.
 
-1. Create new branch and switch to it:
+1. Create a new branch and switch to it:
    ```bash
    git checkout -b fix_some_issue
    ```
