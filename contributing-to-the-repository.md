@@ -113,7 +113,7 @@ Follow these steps:
     git fetch upstream
     ```
 
-4. Merges upstream main to local main.
+4. Merge upstream `main` into local `main`:
    ```bash
    git merge upstream/main
    ```
