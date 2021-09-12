@@ -103,7 +103,7 @@ Follow these steps:
    ```bash
    git status
    ```
-2. You should get this in the command line:  
+2. You should get this at the command line:  
 
     `on branch main Your branch is up-to-date with 'origin/main'.  nothing to commit, working directory clean`
 
