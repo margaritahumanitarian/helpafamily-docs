@@ -74,7 +74,7 @@ Follow these steps to run the helpafamily web app locally:
    ```bash
    cd helpafamily/
    ```
-2. Copy the environment variables.
+2. Copy the example *.env* file, which is where you'll put any environment variables if needed:
    ```bash
    cp .env.example .env
    ```
