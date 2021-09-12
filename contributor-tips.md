@@ -2,7 +2,7 @@
 description: Power tips for contributing to the project
 ---
 
-# Contributor Tips
+# Contributor Power Tips
 
 ### Link Your PR to Your Issue
 

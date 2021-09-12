@@ -8,5 +8,5 @@
 * [Environment Variables](env_vars.md)
 * [Contributing to Help-a-Family](contributing-to-the-repository.md)
 * [Troubleshooting](troubleshooting.md)
-* [Contributor Tips](contributor-tips.md)
+* [Contributor Power Tips](contributor-tips.md)
 
