@@ -6,11 +6,13 @@ description: >-
 
 # Lighthouse CI
 
-### 
+Lighthouse is a tool for testing page speed and performance. We use it with a GitHub action to performance-test pull requests.
 
 ### Target Audience: Other Nonprofit Organizations
 
-This info is only for those who are deploying a production instance of Help-a-Family.
+This info is only for those who are deploying a production instance of Help-a-Family. 
+
+It's not necessary for most developers contributing to Help-a-Family to follow these instructions.
 
 ### Getting a Lighthouse CI GitHub App Token
 
