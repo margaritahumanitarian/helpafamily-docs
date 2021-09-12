@@ -82,7 +82,7 @@ Follow these steps to run the helpafamily web app locally:
    ```bash
    yarn install
    ```
-4. Start the server.
+4. Start the local development server:
    ```bash
    yarn dev
    ```
