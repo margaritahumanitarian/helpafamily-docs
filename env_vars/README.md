@@ -21,7 +21,7 @@ Instructions for getting this key: [Maps JavaScript API: Using API Keys &gt; Cre
 
 In the Google console, name it something like  **NEXT\_PUBLIC\_GMAPS\_JS\_API\_KEY \(Dev, audreyfeldroy\)** or  **NEXT\_PUBLIC\_GMAPS\_JS\_API\_KEY \(Prod\)**:
 
-![Google Maps JS API Key Naming](.gitbook/assets/gmaps-key-naming.png)
+![Google Maps JS API Key Naming](../.gitbook/assets/gmaps-key-naming.png)
 
 That will help you identify which key is for which environment.
 
@@ -29,11 +29,11 @@ That will help you identify which key is for which environment.
 
 If you're just using this key for local development, it's okay to leave _Key restrictions_ as None like this:
 
-![Google Maps JS API Key Restrictions: Dev Environment](.gitbook/assets/gmaps-key-restrictions-dev.png) For the Vercel preview key, the _Website restrictions_ setting will be something like:
+![Google Maps JS API Key Restrictions: Dev Environment](../.gitbook/assets/gmaps-key-restrictions-dev.png) For the Vercel preview key, the _Website restrictions_ setting will be something like:
 
 A production key should have these restrictions:
 
-![Google Maps JS API Key Restrictions: Prod Environment](.gitbook/assets/gmaps-key-restrictions-prod.png)
+![Google Maps JS API Key Restrictions: Prod Environment](../.gitbook/assets/gmaps-key-restrictions-prod.png)
 
 ## Setting Your Key for Local Development
 

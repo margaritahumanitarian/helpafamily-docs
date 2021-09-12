@@ -22,3 +22,9 @@ If your PR adds any graphics or other non-code files to the project, do your bes
 * [Weighing SVG Animation Techniques \(with Benchmarks\)](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
 * [How to Optimize Images for Web and Performance](https://kinsta.com/blog/optimize-images-for-web/)
 
+### Use Yarn to Install Packages
+
+If you ever need to install a new dependency into the project, install it via `yarn add` instead of `npm install`. This will update the project's `package.json` and `yarn.lock` files.
+
+
+
