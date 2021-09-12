@@ -99,7 +99,7 @@ Then open [http://127.0.0.1:3000](http://127.0.0.1:3000)
 
 Follow these steps:
 
-1. Validate that you are on the `main` branch:
+1. Make sure that you are on the `main` branch:
    ```bash
    git status
    ```
