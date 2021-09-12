@@ -64,7 +64,7 @@ Follow these steps to sync with the helpafamily repository:
    git remote -v
    ```
 
-![you will have your username in place of ozer619](.gitbook/assets/sync.png)
+![You will have your username in place of ozer619](.gitbook/assets/sync.png)
 
 ### Running helpafamily locally
 
