@@ -14,3 +14,11 @@ Put "Fixes \#123" or "Resolves \#456" into any commit message that's part of you
 
 See [this StackOverflow answer](https://stackoverflow.com/a/23024034/271697) for more info.
 
+### Minimize File Sizes
+
+If your PR adds any graphics or other non-code files to the project, do your best to keep the files as small as possible. More info:
+
+* [How SVG Optimization Can Help In Improving Website Speed?](https://imagekit.io/blog/svg-optimization-improves-website-speed/)
+* [Weighing SVG Animation Techniques \(with Benchmarks\)](https://css-tricks.com/weighing-svg-animation-techniques-benchmarks/)
+* [How to Optimize Images for Web and Performance](https://kinsta.com/blog/optimize-images-for-web/)
+
