@@ -70,7 +70,7 @@ Follow these steps to sync with the helpafamily repository:
 
 Follow these steps to run the helpafamily web app locally:
 
-1. if you are not already in the cloned directory.
+1. If you are not already in the cloned directory, go into it:
    ```bash
    cd helpafamily/
    ```
