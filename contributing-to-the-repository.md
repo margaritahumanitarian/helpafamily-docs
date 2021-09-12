@@ -49,7 +49,7 @@ We need a reference from our local clone to the `upstream` repository in additio
 
 Follow these steps to sync with the helpafamily repository:
 
-1. Change the directory to the new cloned one
+1.  Go into the new cloned directory:
    ```bash
    cd helpafamily
    ```
