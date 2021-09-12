@@ -10,7 +10,7 @@ When you submit a PR, link it to the related issue. See [GitHub's instructions f
 
 ### Auto-Close Your Issue Via Commit Message
 
-Put "Fixes \#123" or "Resolves \#456" into any commit message that's part of your PR.
+Put "Fixes \#123" or "Resolves \#456" into any commit message that's part of your PR. That will auto-close the related issue when the PR is merged. 
 
-That will auto-close the related issue when the PR is merged. You'll get bonus points for saving 
+See [this StackOverflow answer](https://stackoverflow.com/a/23024034/271697) for more info.
 
