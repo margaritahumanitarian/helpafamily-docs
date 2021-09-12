@@ -152,4 +152,4 @@ You will be prompted to create a pull request on your fork's GitHub Page.
 ### Credits
 
 These instructions were adapted from:  
-[ https://contribute.freecodecamp.org/\#/how-to-setup-freecodecamp-locally](%20https://contribute.freecodecamp.org/#/how-to-setup-freecodecamp-locally)
+[https://contribute.freecodecamp.org/\#/how-to-setup-freecodecamp-locally](https://contribute.freecodecamp.org/#/how-to-setup-freecodecamp-locally)
