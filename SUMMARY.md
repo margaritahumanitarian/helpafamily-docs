@@ -9,6 +9,7 @@
   * [Lighthouse CI](env_vars/lighthouse-ci.md)
 * [Troubleshooting](troubleshooting.md)
 * [Contributing to Help-a-Family](contributing-to-the-repository/README.md)
+  * [MHF Javascript/React Style Guide](contributing-to-the-repository/mhf-javascript-react-style-guide.md)
   * [Fork and Clone the Repo](contributing-to-the-repository/fork-and-clone-the-repo.md)
   * [Contributor Power Tips](contributing-to-the-repository/contributor-power-tips.md)
 
