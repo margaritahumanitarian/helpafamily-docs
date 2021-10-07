@@ -18,7 +18,7 @@ const MyComponent = () => {
 (props) should be ({propName1, propName2})
 ```
 
-> This gives clarity to the codebase in your components use of props
+> This gives clarity to the codebase in your component's use of props
 
 ### Exports
 
