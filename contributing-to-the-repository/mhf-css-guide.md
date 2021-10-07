@@ -9,7 +9,7 @@
 <button className="btn" style={{margin: '10px'}} />
 ```
 
-* **Avoid** `css modules` unless you are working on a whole page.
+* **Avoid** `css modules` unless you are working on a **whole page**.
 
 ```javascript
 // DO NOT DO THIS... most of the time
